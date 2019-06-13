@@ -57,8 +57,8 @@
           <attvalue for="clustering" value="0.46153846153846156"></attvalue>
           <attvalue for="triangles" value="36"></attvalue>
         </attvalues>
-        <viz:size value="23.081081"></viz:size>
-        <viz:position x="259.67172" y="234.83136"></viz:position>
+        <viz:size value="38.48649"></viz:size>
+        <viz:position x="466.10846" y="135.01176"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#progressives" label="#progressives">
@@ -73,8 +73,8 @@
           <attvalue for="clustering" value="0.6304347826086957"></attvalue>
           <attvalue for="triangles" value="174"></attvalue>
         </attvalues>
-        <viz:size value="23.729729"></viz:size>
-        <viz:position x="-194.00433" y="-708.38855"></viz:position>
+        <viz:size value="42.37838"></viz:size>
+        <viz:position x="-301.5682" y="-758.60095"></viz:position>
         <viz:color r="214" g="78" b="43"></viz:color>
       </node>
       <node id="#berniesanders" label="#berniesanders">
@@ -89,8 +89,8 @@
           <attvalue for="clustering" value="0.5111111111111111"></attvalue>
           <attvalue for="triangles" value="23"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="741.8641" y="-57.02508"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="531.60394" y="-175.8977"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#democraticsocialism" label="#democraticsocialism">
@@ -111,8 +111,8 @@
           <attvalue for="clustering" value="0.593103448275862"></attvalue>
           <attvalue for="triangles" value="258"></attvalue>
         </attvalues>
-        <viz:size value="27.297298"></viz:size>
-        <viz:position x="855.3855" y="175.06604"></viz:position>
+        <viz:size value="63.783783"></viz:size>
+        <viz:position x="839.05414" y="110.0497"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#medicareforall" label="#medicareforall">
@@ -126,8 +126,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="21"></attvalue>
         </attvalues>
-        <viz:size value="22.918919"></viz:size>
-        <viz:position x="419.3572" y="-362.8936"></viz:position>
+        <viz:size value="37.51351"></viz:size>
+        <viz:position x="362.56137" y="-431.3577"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#singlepayer" label="#singlepayer" timestamp="2019-06-13T00:56:13.840Z">
@@ -137,8 +137,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="21"></attvalue>
         </attvalues>
-        <viz:size value="20.972973"></viz:size>
-        <viz:position x="498.51294" y="-205.36832"></viz:position>
+        <viz:size value="25.837837"></viz:size>
+        <viz:position x="449.27005" y="-225.39565"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#climatechange" label="#climatechange" timestamp="2019-06-13T00:56:13.840Z">
@@ -148,8 +148,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="21"></attvalue>
         </attvalues>
-        <viz:size value="20.972973"></viz:size>
-        <viz:position x="480.26028" y="-270.43887"></viz:position>
+        <viz:size value="25.837837"></viz:size>
+        <viz:position x="366.2479" y="-270.2607"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#election2020" label="#election2020">
@@ -333,8 +333,8 @@
           <attvalue for="clustering" value="0.07716727716727717"></attvalue>
           <attvalue for="triangles" value="316"></attvalue>
         </attvalues>
-        <viz:size value="50.0"></viz:size>
-        <viz:position x="-253.01193" y="-201.7826"></viz:position>
+        <viz:size value="200.0"></viz:size>
+        <viz:position x="-280.83633" y="-138.11601"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#shethinks" label="#shethinks">
@@ -379,7 +379,7 @@
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-27.488344" y="-189.5023"></viz:position>
+        <viz:position x="-43.72221" y="-214.7101"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#treason" label="#treason">
@@ -399,7 +399,7 @@
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-179.0058" y="-233.26044"></viz:position>
+        <viz:position x="-342.32196" y="-430.88235"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#nor" label="#nor">
@@ -414,8 +414,8 @@
           <attvalue for="clustering" value="0.924901185770751"></attvalue>
           <attvalue for="triangles" value="234"></attvalue>
         </attvalues>
-        <viz:size value="23.567568"></viz:size>
-        <viz:position x="1150.441" y="660.91565"></viz:position>
+        <viz:size value="41.405403"></viz:size>
+        <viz:position x="1218.3567" y="526.9661"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#politics" label="#politics">
@@ -430,8 +430,8 @@
           <attvalue for="clustering" value="0.5"></attvalue>
           <attvalue for="triangles" value="14"></attvalue>
         </attvalues>
-        <viz:size value="23.243244"></viz:size>
-        <viz:position x="650.7287" y="-165.2593"></viz:position>
+        <viz:size value="39.459457"></viz:size>
+        <viz:position x="622.4561" y="-268.81165"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#truth" label="#truth">
@@ -445,8 +445,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="10"></attvalue>
         </attvalues>
-        <viz:size value="21.297297"></viz:size>
-        <viz:position x="384.55963" y="394.59485"></viz:position>
+        <viz:size value="27.783783"></viz:size>
+        <viz:position x="500.24185" y="412.3541"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#theresistance" label="#theresistance">
@@ -460,8 +460,8 @@
           <attvalue for="clustering" value="0.8033333333333333"></attvalue>
           <attvalue for="triangles" value="241"></attvalue>
         </attvalues>
-        <viz:size value="23.891891"></viz:size>
-        <viz:position x="1021.24255" y="700.43256"></viz:position>
+        <viz:size value="43.351353"></viz:size>
+        <viz:position x="1064.7349" y="591.7429"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#uniteblue" label="#uniteblue">
@@ -475,8 +475,8 @@
           <attvalue for="clustering" value="0.8033333333333333"></attvalue>
           <attvalue for="triangles" value="241"></attvalue>
         </attvalues>
-        <viz:size value="23.891891"></viz:size>
-        <viz:position x="917.7622" y="888.53265"></viz:position>
+        <viz:size value="43.351353"></viz:size>
+        <viz:position x="992.9411" y="853.33"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#bluewave" label="#bluewave">
@@ -490,8 +490,8 @@
           <attvalue for="clustering" value="0.8033333333333333"></attvalue>
           <attvalue for="triangles" value="241"></attvalue>
         </attvalues>
-        <viz:size value="23.891891"></viz:size>
-        <viz:position x="945.5912" y="842.29565"></viz:position>
+        <viz:size value="43.351353"></viz:size>
+        <viz:position x="1053.3694" y="729.6527"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#nevada" label="#nevada" timestamp="2019-06-13T00:59:45.290Z">
@@ -502,7 +502,7 @@
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-163.89783" y="-126.09962"></viz:position>
+        <viz:position x="-368.85556" y="169.54411"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#kirstengillibrand" label="#kirstengillibrand" timestamp="2019-06-13T01:00:14.043Z">
@@ -512,8 +512,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="1"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="-361.04257" y="71.858734"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="-390.35693" y="101.96568"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#gillibrand" label="#gillibrand" timestamp="2019-06-13T01:00:14.043Z">
@@ -523,8 +523,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="1"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="-432.18695" y="207.4771"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="-905.5418" y="319.97577"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#msmpositive" label="#msmpositive" timestamp="2019-06-13T01:00:51.251Z">
@@ -534,8 +534,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="3"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="246.96132" y="-315.52463"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="104.33898" y="-354.29327"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#thepeopleforkamala" label="#thepeopleforkamala">
@@ -550,8 +550,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="3"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="189.12497" y="-225.62906"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-1.8116517" y="-253.76895"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#tpfkh" label="#tpfkh">
@@ -566,8 +566,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="3"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="289.25082" y="-186.45277"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="145.09933" y="-305.6011"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#census2020" label="#census2020" timestamp="2019-06-13T01:01:48.046Z">
@@ -578,7 +578,7 @@
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-268.9192" y="749.37164"></viz:position>
+        <viz:position x="-169.63951" y="797.9182"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#gerrymandering" label="#gerrymandering" timestamp="2019-06-13T01:01:48.046Z">
@@ -589,7 +589,7 @@
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-204.14368" y="785.5149"></viz:position>
+        <viz:position x="-50.872948" y="837.2531"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#texas" label="#texas">
@@ -615,8 +615,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="153"></attvalue>
         </attvalues>
-        <viz:size value="22.756756"></viz:size>
-        <viz:position x="-269.00766" y="-562.9934"></viz:position>
+        <viz:size value="36.540543"></viz:size>
+        <viz:position x="-395.97275" y="-611.15375"></viz:position>
         <viz:color r="214" g="78" b="43"></viz:color>
       </node>
       <node id="#tx31" label="#tx31">
@@ -643,8 +643,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="153"></attvalue>
         </attvalues>
-        <viz:size value="22.756756"></viz:size>
-        <viz:position x="-318.01895" y="-672.0536"></viz:position>
+        <viz:size value="36.540543"></viz:size>
+        <viz:position x="-464.8241" y="-719.1309"></viz:position>
         <viz:color r="214" g="78" b="43"></viz:color>
       </node>
       <node id="#yeswecan" label="#yeswecan">
@@ -687,8 +687,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="153"></attvalue>
         </attvalues>
-        <viz:size value="24.702702"></viz:size>
-        <viz:position x="-286.8692" y="-450.8612"></viz:position>
+        <viz:size value="48.216217"></viz:size>
+        <viz:position x="-562.952" y="-572.4751"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#game7" label="#game7" timestamp="2019-06-13T01:02:33.351Z">
@@ -699,7 +699,7 @@
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-43.172504" y="-82.613976"></viz:position>
+        <viz:position x="-10.502139" y="101.68897"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#cancer" label="#cancer">
@@ -714,8 +714,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="1"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="-388.51675" y="-232.8993"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="-517.6917" y="-197.65022"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#liberalismisamentaldisease" label="#liberalismisamentaldisease">
@@ -730,8 +730,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="1"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="-569.3441" y="-264.71613"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="-526.4753" y="-242.97438"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#democrats" label="#democrats">
@@ -752,8 +752,8 @@
           <attvalue for="clustering" value="0.49014778325123154"></attvalue>
           <attvalue for="triangles" value="199"></attvalue>
         </attvalues>
-        <viz:size value="25.18919"></viz:size>
-        <viz:position x="-85.56568" y="-826.4891"></viz:position>
+        <viz:size value="51.135136"></viz:size>
+        <viz:position x="-236.25859" y="-859.699"></viz:position>
         <viz:color r="214" g="78" b="43"></viz:color>
       </node>
       <node id="#impeachment" label="#impeachment">
@@ -767,8 +767,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="1"></attvalue>
         </attvalues>
-        <viz:size value="20.972973"></viz:size>
-        <viz:position x="-902.7375" y="-47.21669"></viz:position>
+        <viz:size value="25.837837"></viz:size>
+        <viz:position x="-1157.634" y="141.48003"></viz:position>
         <viz:color r="201" g="73" b="146"></viz:color>
       </node>
       <node id="#keepitblue" label="#keepitblue">
@@ -783,8 +783,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="153"></attvalue>
         </attvalues>
-        <viz:size value="22.918919"></viz:size>
-        <viz:position x="-508.16885" y="-757.71826"></viz:position>
+        <viz:size value="37.51351"></viz:size>
+        <viz:position x="-658.82367" y="-781.75195"></viz:position>
         <viz:color r="214" g="78" b="43"></viz:color>
       </node>
       <node id="#txpol" label="#txpol">
@@ -798,8 +798,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="153"></attvalue>
         </attvalues>
-        <viz:size value="22.756756"></viz:size>
-        <viz:position x="-281.5976" y="-921.7784"></viz:position>
+        <viz:size value="36.540543"></viz:size>
+        <viz:position x="-394.24808" y="-1005.9925"></viz:position>
         <viz:color r="214" g="78" b="43"></viz:color>
       </node>
       <node id="#txlege" label="#txlege">
@@ -813,8 +813,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="153"></attvalue>
         </attvalues>
-        <viz:size value="22.756756"></viz:size>
-        <viz:position x="-352.14706" y="-877.50354"></viz:position>
+        <viz:size value="36.540543"></viz:size>
+        <viz:position x="-484.8898" y="-936.21313"></viz:position>
         <viz:color r="214" g="78" b="43"></viz:color>
       </node>
       <node id="#txpolitics" label="#txpolitics">
@@ -828,8 +828,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="153"></attvalue>
         </attvalues>
-        <viz:size value="22.756756"></viz:size>
-        <viz:position x="-390.9845" y="-803.5617"></viz:position>
+        <viz:size value="36.540543"></viz:size>
+        <viz:position x="-541.75916" y="-849.78784"></viz:position>
         <viz:color r="214" g="78" b="43"></viz:color>
       </node>
       <node id="#cst" label="#cst">
@@ -843,8 +843,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="153"></attvalue>
         </attvalues>
-        <viz:size value="22.756756"></viz:size>
-        <viz:position x="-283.15308" y="-841.42816"></viz:position>
+        <viz:size value="36.540543"></viz:size>
+        <viz:position x="-410.54865" y="-887.55145"></viz:position>
         <viz:color r="214" g="78" b="43"></viz:color>
       </node>
       <node id="#liberals" label="#liberals" timestamp="2019-06-13T01:12:34.735Z">
@@ -854,8 +854,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="153"></attvalue>
         </attvalues>
-        <viz:size value="22.756756"></viz:size>
-        <viz:position x="-301.25266" y="-1049.1981"></viz:position>
+        <viz:size value="36.540543"></viz:size>
+        <viz:position x="-435.1015" y="-1126.9076"></viz:position>
         <viz:color r="214" g="78" b="43"></viz:color>
       </node>
       <node id="#healthcare" label="#healthcare">
@@ -869,8 +869,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="153"></attvalue>
         </attvalues>
-        <viz:size value="24.864864"></viz:size>
-        <viz:position x="162.44287" y="-707.03687"></viz:position>
+        <viz:size value="49.189186"></viz:size>
+        <viz:position x="61.66559" y="-764.5058"></viz:position>
         <viz:color r="214" g="78" b="43"></viz:color>
       </node>
       <node id="#medicare" label="#medicare" timestamp="2019-06-13T01:12:34.735Z">
@@ -880,8 +880,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="153"></attvalue>
         </attvalues>
-        <viz:size value="22.756756"></viz:size>
-        <viz:position x="-486.86047" y="-912.931"></viz:position>
+        <viz:size value="36.540543"></viz:size>
+        <viz:position x="-647.7775" y="-975.1328"></viz:position>
         <viz:color r="214" g="78" b="43"></viz:color>
       </node>
       <node id="#medicaid" label="#medicaid" timestamp="2019-06-13T01:12:34.735Z">
@@ -891,8 +891,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="153"></attvalue>
         </attvalues>
-        <viz:size value="22.756756"></viz:size>
-        <viz:position x="-583.4353" y="-949.87506"></viz:position>
+        <viz:size value="36.540543"></viz:size>
+        <viz:position x="-752.2028" y="-1011.32794"></viz:position>
         <viz:color r="214" g="78" b="43"></viz:color>
       </node>
       <node id="#environment" label="#environment" timestamp="2019-06-13T01:12:34.735Z">
@@ -902,8 +902,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="153"></attvalue>
         </attvalues>
-        <viz:size value="22.756756"></viz:size>
-        <viz:position x="-498.03983" y="-1017.51776"></viz:position>
+        <viz:size value="36.540543"></viz:size>
+        <viz:position x="-660.9852" y="-1093.8127"></viz:position>
         <viz:color r="214" g="78" b="43"></viz:color>
       </node>
       <node id="#ω" label="#ω" timestamp="2019-06-13T01:12:34.735Z">
@@ -913,8 +913,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="153"></attvalue>
         </attvalues>
-        <viz:size value="22.756756"></viz:size>
-        <viz:position x="-410.93588" y="-1078.0995"></viz:position>
+        <viz:size value="36.540543"></viz:size>
+        <viz:position x="-562.5937" y="-1168.4912"></viz:position>
         <viz:color r="214" g="78" b="43"></viz:color>
       </node>
       <node id="#blue2020" label="#blue2020" timestamp="2019-06-13T01:12:34.735Z">
@@ -924,8 +924,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="153"></attvalue>
         </attvalues>
-        <viz:size value="22.756756"></viz:size>
-        <viz:position x="-567.69946" y="-855.5972"></viz:position>
+        <viz:size value="36.540543"></viz:size>
+        <viz:position x="-734.5388" y="-888.94977"></viz:position>
         <viz:color r="214" g="78" b="43"></viz:color>
       </node>
       <node id="#demswork4usa" label="#demswork4usa">
@@ -939,8 +939,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="153"></attvalue>
         </attvalues>
-        <viz:size value="22.756756"></viz:size>
-        <viz:position x="-379.44913" y="-981.3159"></viz:position>
+        <viz:size value="36.540543"></viz:size>
+        <viz:position x="-537.6721" y="-1045.7925"></viz:position>
         <viz:color r="214" g="78" b="43"></viz:color>
       </node>
       <node id="#impeachtrump" label="#impeachtrump" timestamp="2019-06-13T01:15:55.047Z">
@@ -950,9 +950,9 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="10"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="733.69653" y="275.58273"></viz:position>
-        <viz:color r="192" g="192" b="192"></viz:color>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="858.3844" y="238.84602"></viz:position>
+        <viz:color r="255" g="189" b="254"></viz:color>
       </node>
       <node id="#impeachtrumpnow" label="#impeachtrumpnow" timestamp="2019-06-13T01:15:55.047Z">
         <attvalues>
@@ -961,9 +961,9 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="10"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="859.4215" y="467.08328"></viz:position>
-        <viz:color r="192" g="192" b="192"></viz:color>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="820.8005" y="323.99057"></viz:position>
+        <viz:color r="255" g="189" b="254"></viz:color>
       </node>
       <node id="#inners" label="#inners">
         <spells>
@@ -977,8 +977,8 @@
           <attvalue for="clustering" value="0.6951566951566952"></attvalue>
           <attvalue for="triangles" value="244"></attvalue>
         </attvalues>
-        <viz:size value="24.216217"></viz:size>
-        <viz:position x="1042.8146" y="584.07007"></viz:position>
+        <viz:size value="45.297295"></viz:size>
+        <viz:position x="1095.5137" y="445.9906"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#wednesdaywisdom" label="#wednesdaywisdom">
@@ -992,9 +992,9 @@
           <attvalue for="clustering" value="0.7333333333333333"></attvalue>
           <attvalue for="triangles" value="11"></attvalue>
         </attvalues>
-        <viz:size value="20.81081"></viz:size>
-        <viz:position x="556.69354" y="235.50777"></viz:position>
-        <viz:color r="192" g="192" b="192"></viz:color>
+        <viz:size value="24.864864"></viz:size>
+        <viz:position x="642.6488" y="195.32274"></viz:position>
+        <viz:color r="255" g="189" b="254"></viz:color>
       </node>
       <node id="#resisters" label="#resisters" timestamp="2019-06-13T01:15:55.047Z">
         <attvalues>
@@ -1003,9 +1003,9 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="10"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="728.449" y="432.5175"></viz:position>
-        <viz:color r="192" g="192" b="192"></viz:color>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="639.2573" y="286.16928"></viz:position>
+        <viz:color r="255" g="189" b="254"></viz:color>
       </node>
       <node id="#elizabethwarren" label="#elizabethwarren">
         <spells>
@@ -1019,8 +1019,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="1"></attvalue>
         </attvalues>
-        <viz:size value="20.972973"></viz:size>
-        <viz:position x="-634.63617" y="-92.62507"></viz:position>
+        <viz:size value="25.837837"></viz:size>
+        <viz:position x="-589.15643" y="-162.8532"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#maddow" label="#maddow">
@@ -1037,8 +1037,8 @@
           <attvalue for="clustering" value="0.924901185770751"></attvalue>
           <attvalue for="triangles" value="234"></attvalue>
         </attvalues>
-        <viz:size value="24.216217"></viz:size>
-        <viz:position x="866.34485" y="731.39233"></viz:position>
+        <viz:size value="45.297295"></viz:size>
+        <viz:position x="905.3251" y="664.9939"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#meganrapinoe" label="#meganrapinoe" timestamp="2019-06-13T01:24:07.586Z">
@@ -1048,8 +1048,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="223.20047" y="-900.5713"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="59.89019" y="-940.6373"></viz:position>
         <viz:color r="199" g="138" b="28"></viz:color>
       </node>
       <node id="#firerapinoenow" label="#firerapinoenow" timestamp="2019-06-13T01:24:07.586Z">
@@ -1059,8 +1059,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="-77.02669" y="-930.65466"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="-212.21" y="-1061.1624"></viz:position>
         <viz:color r="199" g="138" b="28"></viz:color>
       </node>
       <node id="#usa" label="#usa" timestamp="2019-06-13T01:24:07.586Z">
@@ -1070,8 +1070,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="20.737453" y="-1067.2922"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="-73.9128" y="-1129.2109"></viz:position>
         <viz:color r="199" g="138" b="28"></viz:color>
       </node>
       <node id="#antiamerican" label="#antiamerican" timestamp="2019-06-13T01:24:07.586Z">
@@ -1081,8 +1081,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="109.57964" y="-965.2764"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="3.5158496" y="-1023.0059"></viz:position>
         <viz:color r="199" g="138" b="28"></viz:color>
       </node>
       <node id="#consequenceofactions" label="#consequenceofactions" timestamp="2019-06-13T01:24:07.586Z">
@@ -1092,8 +1092,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="38.884045" y="-861.3541"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="-65.507195" y="-897.9786"></viz:position>
         <viz:color r="199" g="138" b="28"></viz:color>
       </node>
       <node id="#magalandslide" label="#magalandslide" timestamp="2019-06-13T01:24:07.586Z">
@@ -1103,8 +1103,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="316.66782" y="-1000.41"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="285.13556" y="-983.6867"></viz:position>
         <viz:color r="199" g="138" b="28"></viz:color>
       </node>
       <node id="#eliminatedemocrats" label="#eliminatedemocrats" timestamp="2019-06-13T01:24:07.586Z">
@@ -1114,8 +1114,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="130.51393" y="-1035.5142"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="159.6609" y="-1094.8485"></viz:position>
         <viz:color r="199" g="138" b="28"></viz:color>
       </node>
       <node id="#midterms2022" label="#midterms2022" timestamp="2019-06-13T01:24:07.586Z">
@@ -1125,8 +1125,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="98.75315" y="-1126.5045"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="3.0069044" y="-1190.0172"></viz:position>
         <viz:color r="199" g="138" b="28"></viz:color>
       </node>
       <node id="#maga" label="#maga" timestamp="2019-06-13T01:24:07.586Z">
@@ -1136,8 +1136,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="196.02623" y="-1090.5015"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="114.25617" y="-1151.3109"></viz:position>
         <viz:color r="199" g="138" b="28"></viz:color>
       </node>
       <node id="#trumptreason" label="#trumptreason" timestamp="2019-06-13T01:24:16.507Z">
@@ -1147,8 +1147,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="3"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-736.9239" y="-8.485149"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-906.94977" y="98.9234"></viz:position>
         <viz:color r="196" g="101" b="214"></viz:color>
       </node>
       <node id="#trumpcrimefamily" label="#trumpcrimefamily" timestamp="2019-06-13T01:24:16.507Z">
@@ -1158,8 +1158,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="3"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-426.7926" y="-18.754623"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-644.73175" y="145.31418"></viz:position>
         <viz:color r="196" g="101" b="214"></viz:color>
       </node>
       <node id="#kamala2020" label="#kamala2020">
@@ -1173,8 +1173,8 @@
           <attvalue for="clustering" value="0.6"></attvalue>
           <attvalue for="triangles" value="6"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="-863.945" y="98.765594"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="-1039.8845" y="253.30312"></viz:position>
         <viz:color r="196" g="101" b="214"></viz:color>
       </node>
       <node id="#morningjoe" label="#morningjoe">
@@ -1188,8 +1188,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="231"></attvalue>
         </attvalues>
-        <viz:size value="23.405405"></viz:size>
-        <viz:position x="1120.4481" y="806.6625"></viz:position>
+        <viz:size value="40.432434"></viz:size>
+        <viz:position x="1183.6849" y="688.2315"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#lnsm" label="#lnsm">
@@ -1203,8 +1203,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="231"></attvalue>
         </attvalues>
-        <viz:size value="23.405405"></viz:size>
-        <viz:position x="1210.5342" y="844.39716"></viz:position>
+        <viz:size value="40.432434"></viz:size>
+        <viz:position x="1301.1687" y="736.9392"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#deadlinewh" label="#deadlinewh">
@@ -1218,8 +1218,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="231"></attvalue>
         </attvalues>
-        <viz:size value="23.405405"></viz:size>
-        <viz:position x="1347.5154" y="771.1209"></viz:position>
+        <viz:size value="40.432434"></viz:size>
+        <viz:position x="1436.9801" y="651.344"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#lssc" label="#lssc">
@@ -1233,8 +1233,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="231"></attvalue>
         </attvalues>
-        <viz:size value="23.405405"></viz:size>
-        <viz:position x="1199.5387" y="944.8323"></viz:position>
+        <viz:size value="40.432434"></viz:size>
+        <viz:position x="1299.7678" y="859.26666"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#thebeat" label="#thebeat">
@@ -1248,8 +1248,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="231"></attvalue>
         </attvalues>
-        <viz:size value="23.405405"></viz:size>
-        <viz:position x="1300.1465" y="691.3079"></viz:position>
+        <viz:size value="40.432434"></viz:size>
+        <viz:position x="1394.5385" y="532.525"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#hardball" label="#hardball">
@@ -1263,8 +1263,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="231"></attvalue>
         </attvalues>
-        <viz:size value="23.405405"></viz:size>
-        <viz:position x="1207.9935" y="739.9461"></viz:position>
+        <viz:size value="40.432434"></viz:size>
+        <viz:position x="1304.4413" y="616.31244"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#lastword" label="#lastword">
@@ -1278,8 +1278,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="231"></attvalue>
         </attvalues>
-        <viz:size value="23.405405"></viz:size>
-        <viz:position x="1291.6221" y="901.0099"></viz:position>
+        <viz:size value="40.432434"></viz:size>
+        <viz:position x="1413.5228" y="789.01855"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#11thhour" label="#11thhour">
@@ -1293,8 +1293,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="231"></attvalue>
         </attvalues>
-        <viz:size value="23.405405"></viz:size>
-        <viz:position x="1106.9602" y="912.83356"></viz:position>
+        <viz:size value="40.432434"></viz:size>
+        <viz:position x="1184.6273" y="808.4164"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#msnbc" label="#msnbc">
@@ -1308,8 +1308,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="231"></attvalue>
         </attvalues>
-        <viz:size value="24.054054"></viz:size>
-        <viz:position x="1254.9004" y="541.1202"></viz:position>
+        <viz:size value="44.324326"></viz:size>
+        <viz:position x="1318.0037" y="378.75543"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#dailyshow" label="#dailyshow" timestamp="2019-06-13T01:24:43.294Z">
@@ -1319,8 +1319,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="231"></attvalue>
         </attvalues>
-        <viz:size value="23.405405"></viz:size>
-        <viz:position x="1072.9865" y="1041.5148"></viz:position>
+        <viz:size value="40.432434"></viz:size>
+        <viz:position x="1170.915" y="962.2455"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#politicsnation" label="#politicsnation" timestamp="2019-06-13T01:24:43.294Z">
@@ -1330,8 +1330,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="231"></attvalue>
         </attvalues>
-        <viz:size value="23.405405"></viz:size>
-        <viz:position x="1313.8019" y="1028.7863"></viz:position>
+        <viz:size value="40.432434"></viz:size>
+        <viz:position x="1432.6561" y="944.1859"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#amjoy" label="#amjoy" timestamp="2019-06-13T01:24:43.294Z">
@@ -1341,8 +1341,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="231"></attvalue>
         </attvalues>
-        <viz:size value="23.405405"></viz:size>
-        <viz:position x="1202.4414" y="1081.2865"></viz:position>
+        <viz:size value="40.432434"></viz:size>
+        <viz:position x="1307.7994" y="1010.62634"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#thelead" label="#thelead" timestamp="2019-06-13T01:24:43.294Z">
@@ -1352,8 +1352,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="231"></attvalue>
         </attvalues>
-        <viz:size value="23.405405"></viz:size>
-        <viz:position x="1397.4048" y="981.20105"></viz:position>
+        <viz:size value="40.432434"></viz:size>
+        <viz:position x="1539.8594" y="864.94025"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#donlemon" label="#donlemon" timestamp="2019-06-13T01:24:43.294Z">
@@ -1363,8 +1363,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="231"></attvalue>
         </attvalues>
-        <viz:size value="23.405405"></viz:size>
-        <viz:position x="1442.6504" y="739.9456"></viz:position>
+        <viz:size value="40.432434"></viz:size>
+        <viz:position x="1542.4459" y="581.4032"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#cnn" label="#cnn">
@@ -1379,8 +1379,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="231"></attvalue>
         </attvalues>
-        <viz:size value="24.54054"></viz:size>
-        <viz:position x="863.5609" y="544.9688"></viz:position>
+        <viz:size value="47.24324"></viz:size>
+        <viz:position x="889.0759" y="457.5546"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#realtime" label="#realtime" timestamp="2019-06-13T01:24:43.294Z">
@@ -1390,8 +1390,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="231"></attvalue>
         </attvalues>
-        <viz:size value="23.405405"></viz:size>
-        <viz:position x="1445.6987" y="869.40674"></viz:position>
+        <viz:size value="40.432434"></viz:size>
+        <viz:position x="1566.5668" y="727.2953"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#takebackthesenate" label="#takebackthesenate" timestamp="2019-06-13T01:25:20.138Z">
@@ -1402,7 +1402,7 @@
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-254.77234" y="529.6613"></viz:position>
+        <viz:position x="-157.99065" y="569.87146"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#potus" label="#potus" timestamp="2019-06-13T01:25:31.158Z">
@@ -1412,8 +1412,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="6"></attvalue>
         </attvalues>
-        <viz:size value="20.486486"></viz:size>
-        <viz:position x="-619.70044" y="-347.79446"></viz:position>
+        <viz:size value="22.918919"></viz:size>
+        <viz:position x="-812.8712" y="-314.89557"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#votehimout" label="#votehimout" timestamp="2019-06-13T01:25:31.158Z">
@@ -1423,8 +1423,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="6"></attvalue>
         </attvalues>
-        <viz:size value="20.486486"></viz:size>
-        <viz:position x="-705.5337" y="-382.74658"></viz:position>
+        <viz:size value="22.918919"></viz:size>
+        <viz:position x="-762.61914" y="-395.99307"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#trumpresignnow" label="#trumpresignnow">
@@ -1438,8 +1438,8 @@
           <attvalue for="clustering" value="0.6"></attvalue>
           <attvalue for="triangles" value="9"></attvalue>
         </attvalues>
-        <viz:size value="20.81081"></viz:size>
-        <viz:position x="-845.6446" y="-338.14438"></viz:position>
+        <viz:size value="24.864864"></viz:size>
+        <viz:position x="-1014.031" y="-357.52435"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#flipitblue" label="#flipitblue">
@@ -1454,8 +1454,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="6"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="-720.3278" y="-430.71866"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="-879.1448" y="-435.21545"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#kamalaharris" label="#kamalaharris" timestamp="2019-06-13T01:30:20.317Z">
@@ -1465,8 +1465,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="3"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-705.52704" y="138.24619"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-707.64844" y="184.12386"></viz:position>
         <viz:color r="196" g="101" b="214"></viz:color>
       </node>
       <node id="#khive" label="#khive" timestamp="2019-06-13T01:30:20.317Z">
@@ -1476,8 +1476,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="3"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-513.29614" y="243.35847"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-738.05237" y="403.94348"></viz:position>
         <viz:color r="196" g="101" b="214"></viz:color>
       </node>
       <node id="#trump" label="#trump">
@@ -1498,8 +1498,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="21.945946"></viz:size>
-        <viz:position x="-508.11023" y="-57.865833"></viz:position>
+        <viz:size value="31.675676"></viz:size>
+        <viz:position x="-677.3246" y="-50.58593"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#trumprussia" label="#trumprussia">
@@ -1514,8 +1514,8 @@
           <attvalue for="clustering" value="0.6666666666666666"></attvalue>
           <attvalue for="triangles" value="2"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="327.78088" y="-15.455859"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="139.6691" y="18.920113"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#putinspuppet" label="#putinspuppet" timestamp="2019-06-13T02:00:13.573Z">
@@ -1525,8 +1525,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="1"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="251.34657" y="23.148666"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="307.45142" y="-23.813345"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#voting" label="#voting">
@@ -1543,7 +1543,7 @@
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-16.946848" y="-754.74817"></viz:position>
+        <viz:position x="-121.43067" y="-805.68414"></viz:position>
         <viz:color r="214" g="78" b="43"></viz:color>
       </node>
       <node id="#ditchmitch2020" label="#ditchmitch2020" timestamp="2019-06-13T02:02:01.800Z">
@@ -1553,8 +1553,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="6"></attvalue>
         </attvalues>
-        <viz:size value="20.486486"></viz:size>
-        <viz:position x="-310.51578" y="109.37341"></viz:position>
+        <viz:size value="22.918919"></viz:size>
+        <viz:position x="-253.33743" y="334.12393"></viz:position>
         <viz:color r="209" g="64" b="88"></viz:color>
       </node>
       <node id="#holdgopaccountable" label="#holdgopaccountable">
@@ -1570,8 +1570,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="6"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="37.01754" y="93.57706"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="-143.85541" y="208.14035"></viz:position>
         <viz:color r="209" g="64" b="88"></viz:color>
       </node>
       <node id="#votegopout" label="#votegopout">
@@ -1587,8 +1587,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="6"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="-303.518" y="20.657036"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="-392.0163" y="251.6711"></viz:position>
         <viz:color r="209" g="64" b="88"></viz:color>
       </node>
       <node id="#bluewave2020" label="#bluewave2020">
@@ -1603,8 +1603,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="6"></attvalue>
         </attvalues>
-        <viz:size value="20.486486"></viz:size>
-        <viz:position x="-58.05121" y="55.931046"></viz:position>
+        <viz:size value="22.918919"></viz:size>
+        <viz:position x="-678.2211" y="238.3324"></viz:position>
         <viz:color r="209" g="64" b="88"></viz:color>
       </node>
       <node id="#yanggang" label="#yanggang">
@@ -1618,8 +1618,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="1"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="382.5164" y="190.38254"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="384.60828" y="61.471233"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#tulsi2020" label="#tulsi2020">
@@ -1633,8 +1633,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="1"></attvalue>
         </attvalues>
-        <viz:size value="20.81081"></viz:size>
-        <viz:position x="186.11989" y="203.72221"></viz:position>
+        <viz:size value="24.864864"></viz:size>
+        <viz:position x="233.16055" y="294.0401"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#president" label="#president">
@@ -1648,8 +1648,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="22.27027"></viz:size>
-        <viz:position x="-1060.0835" y="200.31163"></viz:position>
+        <viz:size value="33.62162"></viz:size>
+        <viz:position x="-1133.7502" y="326.78503"></viz:position>
         <viz:color r="201" g="73" b="146"></viz:color>
       </node>
       <node id="#climatechangeisreal" label="#climatechangeisreal" timestamp="2019-06-13T02:04:20.381Z">
@@ -1659,8 +1659,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="-1649.2834" y="414.05334"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="-1696.2422" y="580.8998"></viz:position>
         <viz:color r="201" g="73" b="146"></viz:color>
       </node>
       <node id="#climateaction" label="#climateaction" timestamp="2019-06-13T02:04:20.381Z">
@@ -1670,8 +1670,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="-1193.5659" y="339.4074"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="-1344.62" y="497.9649"></viz:position>
         <viz:color r="201" g="73" b="146"></viz:color>
       </node>
       <node id="#climateactionnow" label="#climateactionnow" timestamp="2019-06-13T02:04:20.381Z">
@@ -1681,8 +1681,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="-1499.8541" y="479.996"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="-1529.3195" y="663.2556"></viz:position>
         <viz:color r="201" g="73" b="146"></viz:color>
       </node>
       <node id="#climatejustice" label="#climatejustice" timestamp="2019-06-13T02:04:20.381Z">
@@ -1692,8 +1692,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="-1466.4337" y="311.11713"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="-1504.6653" y="456.63812"></viz:position>
         <viz:color r="201" g="73" b="146"></viz:color>
       </node>
       <node id="#guncontrol" label="#guncontrol" timestamp="2019-06-13T02:04:20.381Z">
@@ -1703,8 +1703,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="-1636.3704" y="271.25577"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="-1701.0416" y="500.53564"></viz:position>
         <viz:color r="201" g="73" b="146"></viz:color>
       </node>
       <node id="#gunreform" label="#gunreform" timestamp="2019-06-13T02:04:20.381Z">
@@ -1714,8 +1714,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="-1510.8314" y="224.78406"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="-1582.0657" y="370.706"></viz:position>
         <viz:color r="201" g="73" b="146"></viz:color>
       </node>
       <node id="#guncontrolnow" label="#guncontrolnow" timestamp="2019-06-13T02:04:20.381Z">
@@ -1725,8 +1725,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="-1439.1758" y="374.64978"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="-1411.1685" y="536.68024"></viz:position>
         <viz:color r="201" g="73" b="146"></viz:color>
       </node>
       <node id="#gunreformnow" label="#gunreformnow" timestamp="2019-06-13T02:04:20.381Z">
@@ -1736,8 +1736,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="-1302.6033" y="444.08453"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="-1324.4265" y="623.4565"></viz:position>
         <viz:color r="201" g="73" b="146"></viz:color>
       </node>
       <node id="#speedtheplow" label="#speedtheplow" timestamp="2019-06-13T02:04:20.381Z">
@@ -1747,8 +1747,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="45"></attvalue>
         </attvalues>
-        <viz:size value="21.45946"></viz:size>
-        <viz:position x="-1355.0505" y="263.50153"></viz:position>
+        <viz:size value="28.756756"></viz:size>
+        <viz:position x="-1373.2793" y="414.28058"></viz:position>
         <viz:color r="201" g="73" b="146"></viz:color>
       </node>
       <node id="#bordercrisis" label="#bordercrisis" timestamp="2019-06-13T02:05:15.038Z">
@@ -1759,7 +1759,7 @@
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="223.66368" y="-447.72736"></viz:position>
+        <viz:position x="172.0133" y="-504.4353"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#corporatesocialism" label="#corporatesocialism">
@@ -1774,7 +1774,7 @@
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="691.0061" y="128.9725"></viz:position>
+        <viz:position x="697.27814" y="26.327679"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#video" label="#video" timestamp="2019-06-13T02:09:08.138Z">
@@ -1784,8 +1784,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="1"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="110.28287" y="440.9753"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="151.53943" y="491.64923"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#2020president" label="#2020president" timestamp="2019-06-13T02:16:41.218Z">
@@ -1796,7 +1796,7 @@
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-172.14798" y="565.5384"></viz:position>
+        <viz:position x="-98.83333" y="642.1618"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#dosomething" label="#dosomething" timestamp="2019-06-13T02:23:50.460Z">
@@ -1806,8 +1806,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="3"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-950.1869" y="-401.65796"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-980.4365" y="-248.23212"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#impeachdonaldtrumpnow" label="#impeachdonaldtrumpnow" timestamp="2019-06-13T02:23:50.460Z">
@@ -1817,8 +1817,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="3"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-990.75476" y="-299.3255"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-1148.7932" y="-291.79626"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#vote" label="#vote">
@@ -1833,7 +1833,7 @@
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-205.3966" y="-62.445892"></viz:position>
+        <viz:position x="-591.82214" y="62.88054"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#government" label="#government" timestamp="2019-06-13T02:28:28.925Z">
@@ -1843,8 +1843,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="3"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="494.17383" y="-93.96569"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="307.50385" y="-129.45796"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#campaigns" label="#campaigns" timestamp="2019-06-13T02:28:28.925Z">
@@ -1854,8 +1854,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="3"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="457.09534" y="-165.6275"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="198.97266" y="-211.18593"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#burley4congress" label="#burley4congress" timestamp="2019-06-13T02:29:38.516Z">
@@ -1865,8 +1865,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="1"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="-562.58887" y="991.48773"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="-391.40646" y="1075.6447"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#ca48" label="#ca48" timestamp="2019-06-13T02:29:38.516Z">
@@ -1876,8 +1876,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="1"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="-467.03745" y="1027.0629"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="-288.8391" y="1114.2957"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#congress" label="#congress" timestamp="2019-06-13T02:29:38.516Z">
@@ -1887,8 +1887,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="1"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="-536.50214" y="1062.9985"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="-370.2515" y="1153.1652"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#cadem2019" label="#cadem2019" timestamp="2019-06-13T02:30:10.493Z">
@@ -1898,8 +1898,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="1"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="487.59653" y="-49.908527"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="403.71997" y="-90.14188"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#tulsigabbard" label="#tulsigabbard" timestamp="2019-06-13T02:30:10.493Z">
@@ -1909,8 +1909,8 @@
           <attvalue for="clustering" value="1.0"></attvalue>
           <attvalue for="triangles" value="1"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="448.68347" y="62.51604"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="590.26013" y="-51.555695"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#debates" label="#debates" timestamp="2019-06-13T02:31:39.603Z">
@@ -1921,7 +1921,7 @@
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-301.24106" y="600.2889"></viz:position>
+        <viz:position x="-216.51569" y="682.388"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#votebluetosaveamerica" label="#votebluetosaveamerica">
@@ -1935,8 +1935,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-585.1482" y="689.5598"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-542.9469" y="782.3764"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#elephants" label="#elephants">
@@ -1950,8 +1950,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-690.93695" y="725.0283"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-603.4366" y="836.0891"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#corruptgop" label="#corruptgop">
@@ -1965,8 +1965,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-617.7259" y="763.7362"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-576.9874" y="923.3193"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#dsa" label="#dsa" timestamp="2019-06-13T02:35:09.100Z">
@@ -1976,8 +1976,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="22.108109"></viz:size>
-        <viz:position x="517.48926" y="-432.08878"></viz:position>
+        <viz:size value="32.648647"></viz:size>
+        <viz:position x="455.11697" y="-497.4713"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#socialism" label="#socialism">
@@ -1992,8 +1992,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="22.756756"></viz:size>
-        <viz:position x="584.56195" y="-305.51727"></viz:position>
+        <viz:size value="36.540543"></viz:size>
+        <viz:position x="485.78403" y="-321.04492"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#bernie" label="#bernie" timestamp="2019-06-13T02:35:09.100Z">
@@ -2003,8 +2003,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="22.108109"></viz:size>
-        <viz:position x="506.72537" y="-609.6408"></viz:position>
+        <viz:size value="32.648647"></viz:size>
+        <viz:position x="419.24527" y="-668.395"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#m4a" label="#m4a" timestamp="2019-06-13T02:35:09.100Z">
@@ -2014,8 +2014,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="22.108109"></viz:size>
-        <viz:position x="672.09357" y="-470.10107"></viz:position>
+        <viz:size value="32.648647"></viz:size>
+        <viz:position x="587.9279" y="-570.58563"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#medicare4all" label="#medicare4all" timestamp="2019-06-13T02:35:09.100Z">
@@ -2025,8 +2025,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="22.108109"></viz:size>
-        <viz:position x="633.03656" y="-578.4556"></viz:position>
+        <viz:size value="32.648647"></viz:size>
+        <viz:position x="566.9038" y="-703.5772"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#greennewdeal" label="#greennewdeal" timestamp="2019-06-13T02:35:09.100Z">
@@ -2036,8 +2036,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="22.108109"></viz:size>
-        <viz:position x="439.6033" y="-537.2843"></viz:position>
+        <viz:size value="32.648647"></viz:size>
+        <viz:position x="365.17935" y="-570.7829"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#gnd" label="#gnd" timestamp="2019-06-13T02:35:09.100Z">
@@ -2047,8 +2047,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="22.108109"></viz:size>
-        <viz:position x="606.6585" y="-396.43872"></viz:position>
+        <viz:size value="32.648647"></viz:size>
+        <viz:position x="561.93823" y="-470.42984"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#socialist" label="#socialist" timestamp="2019-06-13T02:35:09.100Z">
@@ -2058,8 +2058,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="22.108109"></viz:size>
-        <viz:position x="567.09265" y="-501.93018"></viz:position>
+        <viz:size value="32.648647"></viz:size>
+        <viz:position x="488.22922" y="-609.2156"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#election" label="#election" timestamp="2019-06-13T02:35:09.100Z">
@@ -2069,8 +2069,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="22.108109"></viz:size>
-        <viz:position x="708.65106" y="-432.5381"></viz:position>
+        <viz:size value="32.648647"></viz:size>
+        <viz:position x="665.8862" y="-509.71832"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#campaign2020" label="#campaign2020" timestamp="2019-06-13T02:35:09.100Z">
@@ -2080,8 +2080,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="22.108109"></viz:size>
-        <viz:position x="746.9799" y="-542.67194"></viz:position>
+        <viz:size value="32.648647"></viz:size>
+        <viz:position x="686.1375" y="-648.076"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#yang2020" label="#yang2020">
@@ -2101,8 +2101,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.972973"></viz:size>
-        <viz:position x="102.23044" y="319.23492"></viz:position>
+        <viz:size value="25.837837"></viz:size>
+        <viz:position x="199.11737" y="338.32"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#warren2020" label="#warren2020">
@@ -2120,8 +2120,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.486486"></viz:size>
-        <viz:position x="479.74597" y="315.1334"></viz:position>
+        <viz:size value="22.918919"></viz:size>
+        <viz:position x="306.2231" y="413.0959"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#harris2020" label="#harris2020">
@@ -2139,8 +2139,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.486486"></viz:size>
-        <viz:position x="292.04648" y="282.5209"></viz:position>
+        <viz:size value="22.918919"></viz:size>
+        <viz:position x="348.51538" y="378.2441"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#teamhumanity" label="#teamhumanity">
@@ -2158,8 +2158,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="231.87503" y="-82.79995"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="-7.908754" y="-42.078453"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#regulators_mountup" label="#regulators_mountup">
@@ -2177,8 +2177,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="176.33607" y="-122.46291"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="60.025368" y="-85.869545"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#stoptrump" label="#stoptrump" timestamp="2019-06-13T02:39:13.209Z">
@@ -2189,7 +2189,7 @@
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-31.036125" y="-307.98477"></viz:position>
+        <viz:position x="-157.39313" y="-392.33182"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#bluewave2019" label="#bluewave2019" timestamp="2019-06-13T02:45:23.548Z">
@@ -2199,8 +2199,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="-311.87735" y="172.03185"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="-524.7441" y="369.2789"></viz:position>
         <viz:color r="209" g="64" b="88"></viz:color>
       </node>
       <node id="#cybersecurity" label="#cybersecurity" timestamp="2019-06-13T02:45:31.285Z">
@@ -2211,7 +2211,7 @@
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="107.76364" y="-264.3272"></viz:position>
+        <viz:position x="-90.41217" y="-296.991"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#fox" label="#fox" timestamp="2019-06-13T02:47:13.123Z">
@@ -2221,8 +2221,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="851.1026" y="19.738796"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="936.37897" y="-177.21446"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#china" label="#china" timestamp="2019-06-13T02:47:13.123Z">
@@ -2232,8 +2232,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="948.0465" y="-11.802062"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="1048.3534" y="-153.1966"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#guiliani" label="#guiliani" timestamp="2019-06-13T02:49:16.361Z">
@@ -2243,8 +2243,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="203.69725" y="151.40175"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="54.578636" y="255.57368"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#ukraine" label="#ukraine" timestamp="2019-06-13T02:49:16.361Z">
@@ -2254,8 +2254,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="41.97301" y="172.45663"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-1.8957902" y="301.2593"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#electionhacking" label="#electionhacking" timestamp="2019-06-13T02:49:16.361Z">
@@ -2265,8 +2265,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-60.477497" y="238.49583"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-98.56847" y="420.6403"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#pelosi" label="#pelosi" timestamp="2019-06-13T02:50:31.763Z">
@@ -2276,8 +2276,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-413.6416" y="-126.58941"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-566.5609" y="-94.51979"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#history" label="#history" timestamp="2019-06-13T02:50:31.763Z">
@@ -2287,8 +2287,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-539.6097" y="-205.56586"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-827.47943" y="-6.519892"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#podcast" label="#podcast">
@@ -2302,8 +2302,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="416.37357" y="478.51422"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="473.28412" y="494.99603"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#cosen" label="#cosen">
@@ -2317,8 +2317,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="499.97403" y="525.3168"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="601.6748" y="533.8536"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#copolitics" label="#copolitics">
@@ -2332,8 +2332,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="426.2731" y="561.1119"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="400.83875" y="554.56384"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#runwithme" label="#runwithme">
@@ -2347,8 +2347,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="488.4432" y="596.0888"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="524.2091" y="592.59784"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#neverwarren" label="#neverwarren" timestamp="2019-06-13T03:10:25.938Z">
@@ -2358,8 +2358,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="-42.74173" y="282.84863"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="91.18435" y="379.0708"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#feelthebern2020" label="#feelthebern2020" timestamp="2019-06-13T03:10:25.938Z">
@@ -2369,8 +2369,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="-76.10569" y="394.21185"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="-103.725" y="478.64673"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#tulsigabbard2020" label="#tulsigabbard2020" timestamp="2019-06-13T03:10:25.938Z">
@@ -2380,8 +2380,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="20.672285" y="358.70447"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="254.96292" y="451.9829"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#impeachmentinquiry" label="#impeachmentinquiry" timestamp="2019-06-13T03:10:35.132Z">
@@ -2391,8 +2391,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="-576.033" y="-166.09515"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="-462.05676" y="23.890085"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#gotv" label="#gotv" timestamp="2019-06-13T03:10:35.132Z">
@@ -2402,8 +2402,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="-296.57654" y="-98.65582"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="-704.1167" y="67.41803"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#unlawful" label="#unlawful" timestamp="2019-06-13T03:15:00.356Z">
@@ -2413,8 +2413,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.81081"></viz:size>
-        <viz:position x="-676.4883" y="-60.518658"></viz:position>
+        <viz:size value="24.864864"></viz:size>
+        <viz:position x="-962.6467" y="185.10483"></viz:position>
         <viz:color r="201" g="73" b="146"></viz:color>
       </node>
       <node id="#win" label="#win" timestamp="2019-06-13T03:15:00.356Z">
@@ -2424,8 +2424,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.81081"></viz:size>
-        <viz:position x="-848.8323" y="35.510323"></viz:position>
+        <viz:size value="24.864864"></viz:size>
+        <viz:position x="-905.3428" y="150.433"></viz:position>
         <viz:color r="201" g="73" b="146"></viz:color>
       </node>
       <node id="#lose" label="#lose" timestamp="2019-06-13T03:15:00.356Z">
@@ -2435,8 +2435,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.81081"></viz:size>
-        <viz:position x="-790.88983" y="66.63544"></viz:position>
+        <viz:size value="24.864864"></viz:size>
+        <viz:position x="-884.72015" y="219.10492"></viz:position>
         <viz:color r="201" g="73" b="146"></viz:color>
       </node>
       <node id="#democracyisdead" label="#democracyisdead" timestamp="2019-06-13T03:20:43.810Z">
@@ -2446,8 +2446,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.486486"></viz:size>
-        <viz:position x="-592.9733" y="31.544825"></viz:position>
+        <viz:size value="22.918919"></viz:size>
+        <viz:position x="-463.29874" y="294.95328"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#fascism" label="#fascism" timestamp="2019-06-13T03:20:43.810Z">
@@ -2457,8 +2457,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.486486"></viz:size>
-        <viz:position x="-494.7717" y="140.55736"></viz:position>
+        <viz:size value="22.918919"></viz:size>
+        <viz:position x="-626.7357" y="334.68552"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#corruption" label="#corruption" timestamp="2019-06-13T03:20:43.810Z">
@@ -2468,8 +2468,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.486486"></viz:size>
-        <viz:position x="-635.46783" y="176.72481"></viz:position>
+        <viz:size value="22.918919"></viz:size>
+        <viz:position x="-832.0179" y="364.9425"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#goptraitors" label="#goptraitors" timestamp="2019-06-13T03:20:43.810Z">
@@ -2479,8 +2479,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.486486"></viz:size>
-        <viz:position x="-632.0359" y="101.94185"></viz:position>
+        <viz:size value="22.918919"></viz:size>
+        <viz:position x="-781.7583" y="276.9522"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#mitchmcconnell" label="#mitchmcconnell" timestamp="2019-06-13T03:25:09.960Z">
@@ -2490,8 +2490,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="-613.21185" y="355.0949"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="-625.9747" y="475.5007"></viz:position>
         <viz:color r="105" g="144" b="37"></viz:color>
       </node>
       <node id="#astrology" label="#astrology" timestamp="2019-06-13T03:25:09.960Z">
@@ -2501,8 +2501,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="-645.5728" y="432.71994"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="-636.7437" y="571.7018"></viz:position>
         <viz:color r="105" g="144" b="37"></viz:color>
       </node>
       <node id="#tarot" label="#tarot" timestamp="2019-06-13T03:25:09.960Z">
@@ -2512,8 +2512,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="-689.8431" y="507.3484"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="-681.56744" y="652.10034"></viz:position>
         <viz:color r="105" g="144" b="37"></viz:color>
       </node>
       <node id="#republicans" label="#republicans" timestamp="2019-06-13T03:25:09.960Z">
@@ -2523,8 +2523,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="-781.22626" y="472.49445"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="-781.9015" y="614.1004"></viz:position>
         <viz:color r="105" g="144" b="37"></viz:color>
       </node>
       <node id="#senate" label="#senate" timestamp="2019-06-13T03:25:09.960Z">
@@ -2534,8 +2534,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.64865"></viz:size>
-        <viz:position x="-735.75867" y="397.52567"></viz:position>
+        <viz:size value="23.891891"></viz:size>
+        <viz:position x="-738.11487" y="532.99274"></viz:position>
         <viz:color r="105" g="144" b="37"></viz:color>
       </node>
       <node id="#cyclonevayu" label="#cyclonevayu" timestamp="2019-06-13T03:27:34.844Z">
@@ -2545,8 +2545,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="936.94916" y="-990.23535"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="1017.7496" y="-914.99414"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#दिल्ली" label="#दिल्ली" timestamp="2019-06-13T03:27:34.844Z">
@@ -2556,8 +2556,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="925.81995" y="-914.4618"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="994.0328" y="-830.6458"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#elections" label="#elections" timestamp="2019-06-13T03:27:34.844Z">
@@ -2567,8 +2567,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="838.2269" y="-955.06775"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="900.25507" y="-876.1616"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#fact" label="#fact" timestamp="2019-06-13T03:32:18.595Z">
@@ -2578,8 +2578,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.486486"></viz:size>
-        <viz:position x="139.90715" y="265.86725"></viz:position>
+        <viz:size value="22.918919"></viz:size>
+        <viz:position x="172.21631" y="217.02979"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#obama" label="#obama" timestamp="2019-06-13T03:34:59.597Z">
@@ -2589,8 +2589,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.81081"></viz:size>
-        <viz:position x="-663.4144" y="-296.244"></viz:position>
+        <viz:size value="24.864864"></viz:size>
+        <viz:position x="-757.8046" y="-277.02893"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#palestinian" label="#palestinian" timestamp="2019-06-13T03:34:59.597Z">
@@ -2600,8 +2600,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.81081"></viz:size>
-        <viz:position x="-883.9775" y="-127.35308"></viz:position>
+        <viz:size value="24.864864"></viz:size>
+        <viz:position x="-869.7442" y="-74.21222"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#immigrant" label="#immigrant" timestamp="2019-06-13T03:34:59.597Z">
@@ -2611,8 +2611,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.81081"></viz:size>
-        <viz:position x="-740.9048" y="-206.49724"></viz:position>
+        <viz:size value="24.864864"></viz:size>
+        <viz:position x="-754.7713" y="-116.90517"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#pentagon" label="#pentagon" timestamp="2019-06-13T03:34:59.597Z">
@@ -2622,8 +2622,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.81081"></viz:size>
-        <viz:position x="-924.0289" y="-246.28801"></viz:position>
+        <viz:size value="24.864864"></viz:size>
+        <viz:position x="-857.0713" y="-202.75316"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#buttigieg4prez" label="#buttigieg4prez" timestamp="2019-06-13T03:39:12.394Z">
@@ -2633,8 +2633,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.486486"></viz:size>
-        <viz:position x="342.3605" y="358.17108"></viz:position>
+        <viz:size value="22.918919"></viz:size>
+        <viz:position x="385.41522" y="247.44485"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#pete4prez" label="#pete4prez" timestamp="2019-06-13T03:39:12.394Z">
@@ -2644,8 +2644,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.486486"></viz:size>
-        <viz:position x="581.80676" y="398.04935"></viz:position>
+        <viz:size value="22.918919"></viz:size>
+        <viz:position x="443.96634" y="332.05368"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#11msnbc" label="#11msnbc" timestamp="2019-06-13T03:39:12.394Z">
@@ -2655,8 +2655,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.486486"></viz:size>
-        <viz:position x="522.3116" y="443.8982"></viz:position>
+        <viz:size value="22.918919"></viz:size>
+        <viz:position x="585.11847" y="370.7191"></viz:position>
         <viz:color r="91" g="195" b="68"></viz:color>
       </node>
       <node id="#firewater" label="#firewater" timestamp="2019-06-13T03:40:50.499Z">
@@ -2667,7 +2667,7 @@
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="113.15734" y="-47.496975"></viz:position>
+        <viz:position x="139.56047" y="140.2104"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#alabama" label="#alabama">
@@ -2682,8 +2682,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-277.96515" y="-296.4102"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-437.75253" y="-328.04666"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#alsen" label="#alsen">
@@ -2699,8 +2699,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-497.09653" y="-447.28333"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-622.41077" y="-450.77753"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#minnesota" label="#minnesota">
@@ -2714,8 +2714,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-121.581245" y="140.55798"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-147.70964" y="266.96335"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#mnsen" label="#mnsen">
@@ -2729,8 +2729,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-288.7901" y="243.52902"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-137.42435" y="370.81647"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#mnpol" label="#mnpol">
@@ -2744,8 +2744,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-234.14677" y="278.55356"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-296.94885" y="377.99084"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#presidentoftheunitedstatesofamerica" label="#presidentoftheunitedstatesofamerica" timestamp="2019-06-13T03:42:36.783Z">
@@ -2755,8 +2755,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="-403.97604" y="825.4082"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="-249.51372" y="880.68646"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#traitor" label="#traitor" timestamp="2019-06-13T03:42:36.783Z">
@@ -2766,8 +2766,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="-437.8813" y="789.88385"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="-367.44675" y="839.95844"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#newhampshire" label="#newhampshire">
@@ -2784,8 +2784,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="-25.987698" y="3.4769318"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="-123.131996" y="145.76375"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#nhsen" label="#nhsen">
@@ -2802,8 +2802,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="154.18536" y="58.04858"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="305.57938" y="100.02467"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#michigan" label="#michigan" timestamp="2019-06-13T03:42:59.936Z">
@@ -2813,8 +2813,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-471.90894" y="-307.21677"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-636.3579" y="-343.99115"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#misen" label="#misen" timestamp="2019-06-13T03:42:59.936Z">
@@ -2824,8 +2824,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-545.641" y="-478.30557"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-659.3456" y="-485.18378"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#southcarolina" label="#southcarolina">
@@ -2840,8 +2840,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="-114.94696" y="-31.524359"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="-129.44719" y="62.883728"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#scsen" label="#scsen">
@@ -2856,8 +2856,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="-334.40744" y="-58.162354"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="-461.46133" y="203.71634"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#newmexico" label="#newmexico">
@@ -2872,8 +2872,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="4.9706936" y="-344.98712"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="83.495094" y="-413.2631"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#nmsen" label="#nmsen">
@@ -2888,8 +2888,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="188.58609" y="-376.80084"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-3.1859245" y="-448.92526"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#nmpol" label="#nmpol">
@@ -2904,8 +2904,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="48.206078" y="-412.24982"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-94.040215" y="-500.61334"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#arizona" label="#arizona">
@@ -2920,8 +2920,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-73.387" y="-376.462"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-168.38971" y="-461.0797"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#azsen" label="#azsen">
@@ -2936,8 +2936,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-90.52179" y="-439.13583"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-255.6371" y="-534.59705"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#georgia" label="#georgia">
@@ -2954,8 +2954,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-108.326065" y="-269.03214"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-462.55994" y="-470.05756"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#gasen" label="#gasen">
@@ -2972,8 +2972,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-428.31113" y="-411.51474"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-564.2317" y="-411.60718"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#mississippi" label="#mississippi">
@@ -2992,8 +2992,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-311.11383" y="-372.06757"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-403.3613" y="-368.50787"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#mssen" label="#mssen">
@@ -3012,8 +3012,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-154.32431" y="-486.9055"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-285.96173" y="-497.02545"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#tennessee" label="#tennessee">
@@ -3033,8 +3033,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-245.61885" y="-337.4645"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-149.52086" y="-346.84598"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#tnsen" label="#tnsen">
@@ -3054,8 +3054,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.324324"></viz:size>
-        <viz:position x="-212.4991" y="-407.04288"></viz:position>
+        <viz:size value="21.945946"></viz:size>
+        <viz:position x="-519.23645" y="-508.83835"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#truthbomb" label="#truthbomb">
@@ -3069,8 +3069,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.81081"></viz:size>
-        <viz:position x="673.8334" y="-12.143458"></viz:position>
+        <viz:size value="24.864864"></viz:size>
+        <viz:position x="580.7467" y="-135.80566"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#feeltheberniesanders" label="#feeltheberniesanders">
@@ -3084,8 +3084,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.81081"></viz:size>
-        <viz:position x="712.7456" y="-130.15266"></viz:position>
+        <viz:size value="24.864864"></viz:size>
+        <viz:position x="883.4924" y="-211.51396"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#notmeus" label="#notmeus">
@@ -3099,8 +3099,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.81081"></viz:size>
-        <viz:position x="521.0598" y="20.269592"></viz:position>
+        <viz:size value="24.864864"></viz:size>
+        <viz:position x="673.0559" y="-98.624756"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#democracy" label="#democracy" timestamp="2019-06-13T03:44:54.405Z">
@@ -3110,8 +3110,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.81081"></viz:size>
-        <viz:position x="770.4006" y="-93.83517"></viz:position>
+        <viz:size value="24.864864"></viz:size>
+        <viz:position x="849.9103" y="-138.4603"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="#northcarolina" label="#northcarolina">
@@ -3125,8 +3125,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="-469.19662" y="560.7835"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="-438.21603" y="647.8415"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#ncsen" label="#ncsen">
@@ -3140,8 +3140,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="-449.15784" y="623.6792"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="-381.13937" y="688.8134"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#votebluenomatterwho" label="#votebluenomatterwho" timestamp="2019-06-13T03:48:12.313Z">
@@ -3152,7 +3152,7 @@
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="17.456936" y="-158.5407"></viz:position>
+        <viz:position x="-31.508469" y="-172.17574"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#deplorables" label="#deplorables" timestamp="2019-06-13T03:48:17.637Z">
@@ -3162,8 +3162,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="356.77243" y="112.68422"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="261.36288" y="177.97313"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#libfool" label="#libfool" timestamp="2019-06-13T03:48:17.637Z">
@@ -3173,8 +3173,8 @@
           <attvalue for="clustering" value="0.0"></attvalue>
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
-        <viz:size value="20.162163"></viz:size>
-        <viz:position x="-106.15535" y="203.3809"></viz:position>
+        <viz:size value="20.972973"></viz:size>
+        <viz:position x="16.790585" y="344.6157"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
       <node id="#fify" label="#fify" timestamp="2019-06-13T03:50:40.438Z">
@@ -3185,7 +3185,7 @@
           <attvalue for="triangles" value="0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-363.842" y="493.16968"></viz:position>
+        <viz:position x="-304.845" y="608.31415"></viz:position>
         <viz:color r="110" g="122" b="202"></viz:color>
       </node>
     </nodes>
